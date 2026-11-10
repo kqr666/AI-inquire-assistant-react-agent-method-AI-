@@ -1,0 +1,21 @@
+# Python 虚拟环境与缓存
+.venv/
+__pycache__/
+*.py[cod]
+
+# 机密文件（绝对不能传）
+.env
+*.env
+
+# 编辑器配置
+.idea/
+.vscode/
+
+# 前端依赖与打包文件
+node_modules/
+dist/
+dist-ssr/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
